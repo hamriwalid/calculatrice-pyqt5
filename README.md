@@ -20,5 +20,10 @@ Une application de calculatrice de bureau esthétique et réactive, développée
 ### 1. Prérequis
 Assurez-vous d'avoir Python installé sur votre machine. Ensuite, installez la bibliothèque **PyQt5** via le terminal :
 
-```bash
+`bash
 pip install PyQt5
+<p align="center">
+  <img src="Pyqt Calculatrice/7AMRI ART.png" alt="7AMRI ART Logo" width="200px">
+</p>
+
+# PyCalc - Calculatrice Graphique Moderne en Python
